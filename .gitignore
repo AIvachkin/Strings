@@ -1,1 +1,4 @@
+*.iml
 /Strings.iml
+/out/
+/.idea/
